@@ -371,6 +371,7 @@
 
 .project-item h3 {
     font-size: 1.2rem; 
+    color: #000;
     margin: 10px 10px; 
     text-align: center;
    
@@ -380,11 +381,11 @@
 .project-item p {
     font-size: 1rem; 
     text-align: center; 
+    color: #000;
     margin: 0; 
     padding-bottom: 5px;
 }
 
-/* Link Styles */
 .project-item a {
     margin-top: 5px; 
     padding: 10px 15px; 
